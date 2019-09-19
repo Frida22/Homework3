@@ -3,7 +3,7 @@ public class Homework3Task4 {
         //4. Fix the program to get the correct result
         int a = 5;
         int b = 10;
-        float result = (float)a/(float)b;
+        float result = (float) a / (float) b;
         System.out.println(result);
-            }
-        }
+    }
+}
