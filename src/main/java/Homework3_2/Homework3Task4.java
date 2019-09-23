@@ -1,3 +1,5 @@
+package Homework3_2;
+
 public class Homework3Task4 {
     public static void main(String[] args) {
         //4. Fix the program to get the correct result

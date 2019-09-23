@@ -1,3 +1,5 @@
+package Homework3_2;
+
 public class Homework3Task6 {
     public static void main(String[] args) {
         //"6. Comment redundant strings to get the output ""Happy Java Learning"":

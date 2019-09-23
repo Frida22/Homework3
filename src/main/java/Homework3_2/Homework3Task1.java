@@ -1,3 +1,5 @@
+package Homework3_2;
+
 import sun.awt.geom.AreaOp;
 
 public class Homework3Task1 {

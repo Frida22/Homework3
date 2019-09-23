@@ -1,3 +1,5 @@
+package Homework3_2;
+
 public class Homework3Task2 {
     public static void main(String[] args) {
         //2. Write a program which creates and initializes all primitive data types.\

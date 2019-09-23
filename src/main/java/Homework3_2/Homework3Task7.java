@@ -1,3 +1,5 @@
+package Homework3_2;
+
 public class Homework3Task7 {
     public static void main(String[] args) {
         //7. Comment variables which are never used.

@@ -1,3 +1,5 @@
+package Homework3_2;
+
 public class Homework3Task5 {
     public static void main(String[] args) {
         //5. Change the operations  to get the result 20

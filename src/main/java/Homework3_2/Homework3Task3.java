@@ -1,3 +1,5 @@
+package Homework3_2;
+
 public class Homework3Task3 {
     public static void main(String[] args) {
         //3. Create a program which calculates area of a rectangle.
