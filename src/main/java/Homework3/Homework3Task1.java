@@ -1,6 +1,4 @@
-package Homework3_2;
-
-import sun.awt.geom.AreaOp;
+package Homework3;
 
 public class Homework3Task1 {
     public static void main(String[] args) {
