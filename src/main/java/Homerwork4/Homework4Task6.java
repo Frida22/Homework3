@@ -12,14 +12,14 @@ public class Homework4Task6 {
 
         int maxLength = 0;
 
-        for (String n : stringNumbers){
-            if (n.length()>maxLength){
-                maxLength = n.length();
+        for (String str : stringNumbers){
+            if (str.length()>maxLength){
+                maxLength = str.length();
             }
         }
-        for (String nn : stringNumbers){
-            if (nn.length() == maxLength){
-                System.out.println(nn);
+        for (String str : stringNumbers){
+            if (str.length() == maxLength){
+                System.out.println(str);
             }
         }
 
