@@ -1,4 +1,4 @@
-package Homework3_2;
+package Homework3_2.task3;
 
 public class Dog {
     private String name;
@@ -19,8 +19,7 @@ public class Dog {
 
     public void setName(String name) {
         if(name.isEmpty()) {
-            System.out.println("Enter name!");
-            //todo перевірити чи не ввели пусту строку
+            System.out.println("Please, enter a name correctly!");
         }else {
             this.name = name;
         }
@@ -29,8 +28,8 @@ public class Dog {
     public void setAge(int age) {
         if (age >= 0) {
             this.age = age;
-        }else {
-            System.out.println("Enter age!");
+        } else {
+            System.out.println("Please, enter age correctly!");
         }
     }
 }

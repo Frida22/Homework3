@@ -2,7 +2,6 @@ package Homework3_2Task7;
 
 public class Vehicle {
 
-
     private String name;
     private String size;
     private int currentVelocity;
