@@ -21,6 +21,7 @@ public class Car extends Vehicle {
     }
 
     public int getCountOfDoors() {
+
         return countOfDoors;
     }
 

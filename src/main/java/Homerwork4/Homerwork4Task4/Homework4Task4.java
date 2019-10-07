@@ -1,4 +1,4 @@
-package Homerwork4;
+package Homerwork4.Homerwork4Task4;
 
 import java.util.Random;
 
