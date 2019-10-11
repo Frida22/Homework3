@@ -1,4 +1,4 @@
-package Homerwork4.Homerwork4Task10;
+package Homework4.Homerwork4Task10;
 
 public enum DayOfTheWeek {
     SUNDAY,

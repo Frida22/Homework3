@@ -1,4 +1,4 @@
-package Homerwork4.Homerwork4Task1;
+package Homework4.Homerwork4Task1;
 
 import java.util.ArrayList;
 

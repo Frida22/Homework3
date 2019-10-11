@@ -1,4 +1,4 @@
-package Homerwork4.Homerwork4Task2;
+package Homework4.Homerwork4Task2;
 
 public class ForPresidents {
     public static void main(String[] args) {

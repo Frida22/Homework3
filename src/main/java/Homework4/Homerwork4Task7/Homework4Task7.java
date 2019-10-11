@@ -1,4 +1,4 @@
-package Homerwork4.Homerwork4Task7;
+package Homework4.Homerwork4Task7;
 
 import java.util.HashMap;
 import java.util.Map;
