@@ -1,5 +1,6 @@
 package Homework5.Task6;
 
+import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -9,13 +10,18 @@ public class Task6 {
     }
 
     public static void readData() {
-        try {
-            System.out.print("Enter the number");
-            Scanner scan = new Scanner(System.in);
-            int number = scan.nextInt();
-            System.out.println(number);
-        } catch (InputMismatchException e) {
-
+        ArrayList<Integer> listForPrint = new ArrayList<Integer>();
+        while (true) {
+            try {
+                System.out.print("Enter the number");
+                Scanner scan = new Scanner(System.in);
+                int number = scan.nextInt();
+                listForPrint.add(number);
+//                System.out.println(listForPrint);
+            } catch (InputMismatchException e) {
+                System.out.println(listForPrint);
+                break;
+            }
         }
     }
 }
