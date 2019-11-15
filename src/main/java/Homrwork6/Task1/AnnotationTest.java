@@ -5,11 +5,7 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-public class Task1 {
-    public static void main(String[] args) {
-        forTestMethod();
-
-    }
+public class AnnotationTest {
 
     @Retention(RetentionPolicy.RUNTIME)
     @Target(ElementType.METHOD)
@@ -17,10 +13,4 @@ public class Task1 {
         int a() default 3;
         int b() default 5;
     }
-
-    @Test
-    public static void forTestMethod() {
-        System.out.println("gyo");
-    }
-
 }
