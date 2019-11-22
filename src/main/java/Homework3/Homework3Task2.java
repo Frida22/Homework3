@@ -8,8 +8,6 @@ public class Homework3Task2 {
         byte second = 126;
         char third = 1578;
         short fourth = 32700;
-        //todo correct grammar
-        // to use variable bellow
         int fifth = 365;
         long sixth = 365511;
         float seventh = 23.32f;
